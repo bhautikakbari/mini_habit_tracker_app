@@ -84,7 +84,7 @@ lib/
 ├── firebase_options.dart
 ├── main.dart
 
-plaintext```
+```
 
 Reusable widgets for consistent UI:
 - `AppButton`: Customizable button with loading state
