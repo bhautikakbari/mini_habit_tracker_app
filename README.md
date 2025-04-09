@@ -45,6 +45,7 @@ The application follows **Clean Architecture** principles with a clear separatio
 
 ## Project Structure
 
+```plaintext
 lib/
 ├── core/
 │   ├── constants/
