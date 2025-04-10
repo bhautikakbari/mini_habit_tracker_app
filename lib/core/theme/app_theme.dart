@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../constants/app_colors.dart';
 
-/// App theme configuration - Dark mode only
 class AppTheme {
   // Dark theme
   static ThemeData get darkTheme {
