@@ -1,4 +1,3 @@
-/// App-wide string constants
 class AppStrings {
   // App title
   static const appTitle = 'Habit Tracker';
