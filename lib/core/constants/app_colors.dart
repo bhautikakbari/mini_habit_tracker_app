@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-/// App-wide color constants - Dark mode only
 class AppColors {
   // Primary colors - vibrant green
   static const primary = Color(0xFF4ADE80);
